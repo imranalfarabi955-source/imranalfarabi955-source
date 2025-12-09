@@ -1,3 +1,34 @@
+## 👋 Hi, I'm Imran Al Farabi
+
+💻 Front-End Web Developer  
+🌱 Learning JavaScript & Modern UI Design  
+🎯 Goal: Become a Professional Web Developer
+
+---
+
+### 🛠 Skills
+- HTML5
+- CSS3
+- Responsive Design
+- Git & GitHub
+- JavaScript (Basic)
+
+---
+
+### 📂 Projects
+- 🔗 Personal Portfolio Website  
+- 🔗 Responsive Navbar Design  
+- 🔗 Landing Page UI  
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: imranalfarabi955@email.com  
+- 🌐 GitHub: https://github.com/imranalfarabi955-source
+
+---
+
+⭐ **Thanks for visiting my profile**
 ## Hi there 👋
 
 <!--
